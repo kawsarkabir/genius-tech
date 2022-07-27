@@ -18,3 +18,7 @@ body{
 .text-gray{
     color: #4A4A4A;
 }
+/* slider  */
+.overly{
+    filter: brightness(50%);
+}

@@ -1,3 +1,6 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
 .btn-outline-sky{
     color: #289BDE;
     border: 1px solid #289BDE;
@@ -8,4 +11,10 @@
 }
 .bg-sky{
     background: #289BDE;
+}
+.bg-gray{
+    background: #4A4A4A;
+}
+.text-gray{
+    color: #4A4A4A;
 }

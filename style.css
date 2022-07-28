@@ -20,8 +20,11 @@ body{
 }
 /* slider  */
 .overly{
-    filter: brightness(50%);
+    filter: brightness(40%);
 }
 .custom-bg{
     background:#F4FAFD;
+}
+.carousel-custom-items{
+    top: 35%;
 }
